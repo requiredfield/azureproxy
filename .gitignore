@@ -1,0 +1,12 @@
+node_modules
+server.js.logs
+server.js.debug
+settings.json
+iisnode
+
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
